@@ -1,0 +1,15 @@
+# Built binaries
+/codecnt.exe
+/codecnt
+/codecnt-*
+
+# Go test and coverage artifacts
+*.test
+*.out
+coverage.*
+
+# Editor and OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
