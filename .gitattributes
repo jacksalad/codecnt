@@ -1,0 +1,2 @@
+# Keep the working tree LF everywhere; CRLF breaks gofmt on Windows runners.
+* text=auto eol=lf
